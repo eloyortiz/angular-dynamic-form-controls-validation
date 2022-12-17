@@ -153,6 +153,5 @@ export class AppComponent implements OnInit {
     if (this.formDemo.valid) {
       console.log(this.lstForm);
     }
-    //this.outputStr
   }
 }
